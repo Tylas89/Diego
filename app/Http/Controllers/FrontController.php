@@ -16,6 +16,8 @@ class FrontController extends Controller
     {
         $about = Page::whereIn('id', array(4))->get();
         return view('front.omnie',compact('about'));
+
+        
     }
 
     public function glowna()
