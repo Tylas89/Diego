@@ -7,7 +7,7 @@
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <meta name="description" content="Diego Llorente Domínguez - studio architektoniczne, architektura zewnętrzna i wewnętrzna Kraków. ">
     <meta name="keywords" content="architekt, studio architektoniczne, architektura zewnętrzna, architektura wewnętrzna, Kraków, Diego Llorente Domínguez">
-    <title>Nowoczesna archtektura  Diego Llorente Domínguez</title>
+    <title>Nowoczesna archtektura - Diego Llorente Domínguez</title>
 
     <link rel="stylesheet" type="text/css" href="/css/semantic.min.css">
     <script
